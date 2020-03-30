@@ -1,0 +1,36 @@
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+
+.nav-link {
+    color: lightskyblue;
+}
+
+.jumbotron {
+    background: url('./images/DsmX6NAXQAApWES.jpg') no-repeat center/cover;
+    margin: auto;
+    padding: auto;
+    height: 85vh;
+}
+
+.card {
+    float: left;
+    width: 25%;
+}
+
+.jumbo-container {
+    text-align: center;
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    height: 50px;      
+    background-color: black;
+    padding-top: 10px;
+}
